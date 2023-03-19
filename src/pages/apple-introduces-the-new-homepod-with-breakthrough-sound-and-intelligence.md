@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Apple 推出新款 HomePod，带来突破性音质与智能体验'
-pubDate: 2035-03-25
+pubDate: 2000-03-25
 description: '呈现出类拔萃的音质、增强的 Siri 功能以及安全放心的智能家居体验'
 author: 'Apple Newsroom'
 cover:
     url: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
     square: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
     alt: 'cover'
-tags: ["新闻稿", "Apple", "HomePod"] 
+tags: ["新闻稿", "Apple", "HomePod"]
 theme: 'light'
 featured: true
 ---
@@ -50,7 +50,7 @@ HomePod 的“查找”功能可以让遗落的设备播放声音，帮用户定
 
 ![房间中的任何人都可以拿着 iPhone 靠近 HomePod，播放建议会自动出现在 iPhone 屏幕上，从而轻松控制音频播放或获取个性化歌曲与播客推荐。](https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-ecosystem-230118_big.jpg.large_2x.jpg)
 
-## 智能家居必备 
+## 智能家居必备
 
 依托声音识别功能5，HomePod 可以听到烟雾或一氧化碳警报声，识别出此类声音后，直接向用户的 iPhone 发送通知。全新的内置温度和湿度感应器可衡量室内环境，让用户设置自动化操作，例如房间内到达一定温度时关上窗帘，或者打开风扇。
 
