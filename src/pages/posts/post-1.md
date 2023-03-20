@@ -5,8 +5,8 @@ pubDate: 2023-03-19
 description: 'sample'
 author: 'Space Cat'
 cover:
-    # url: 'https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg'
-    square: 'https://www.apple.com.cn/newsroom/images/product/apps/standard/Apple-Freeform-hero_big.jpg.large_2x.jpg'
+    url: 'https://assets.morefish.win/cat_likes_more_fish_808daac3-1110-40af-b9a5-feaf29d3f5b7.png'
+    square: 'https://assets.morefish.win/cat_likes_more_fish_808daac3-1110-40af-b9a5-feaf29d3f5b7.png'
     alt: 'cover'
 tags: ["Small talk"]
 theme: 'light'
