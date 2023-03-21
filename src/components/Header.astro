@@ -3,6 +3,15 @@ import Navigation from "./Navigation.astro";
 ---
 
 <header>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-TP1Z7K0Y0G"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-TP1Z7K0Y0G');
+  </script>
   <Navigation />
   <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
