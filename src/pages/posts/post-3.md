@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Mar summary and Apr plan'
 pubDate: 2023-04-01
-description: 'sample'
+description: ''
 author: 'Space Cat'
 cover:
     url: ''

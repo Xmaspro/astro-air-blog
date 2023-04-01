@@ -2,7 +2,7 @@
 layout: '../../layouts/MarkdownPost.astro'
 title: 'Build Mniniflux on ARM64 VPS'
 pubDate: 2023-03-19
-description: 'sample'
+description: ''
 author: 'Space Cat'
 cover:
     url: 'https://assets.morefish.win/cat_likes_more_fish_808daac3-1110-40af-b9a5-feaf29d3f5b7.png'
