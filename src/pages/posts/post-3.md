@@ -5,8 +5,8 @@ pubDate: 2023-07-05
 description: ''
 author: 'Space Cat'
 cover:
-    url: 'https://www.bing.com/images/create/a-dog-in-the-spacecraft/64a414a573444be59b50f3aada485675?id=z%2BuTR1IG4uImlRfurWMnJA%3D%3D&view=detailv2&idpp=genimg&idpclose=1&form=SYDBIC'
-    square: 'https://www.bing.com/images/create/a-dog-in-the-spacecraft/64a414a573444be59b50f3aada485675?id=z%2BuTR1IG4uImlRfurWMnJA%3D%3D&view=detailv2&idpp=genimg&idpclose=1&form=SYDBIC'
+    url: 'https://imgur.com/a/OolkcWj'
+    square: 'https://imgur.com/a/OolkcWj'
     alt: 'cover'
 tags: ["plan"]
 theme: 'light'
