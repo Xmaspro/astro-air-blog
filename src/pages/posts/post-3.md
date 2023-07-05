@@ -5,8 +5,8 @@ pubDate: 2023-07-05
 description: ''
 author: 'Space Cat'
 cover:
-    url: 'https://imgur.com/a/OolkcWj'
-    square: 'https://imgur.com/a/OolkcWj'
+    url: 'https://s2.loli.net/2023/07/05/4XiW5gB3nGdwOcz.jpg'
+    square: 'https://s2.loli.net/2023/07/05/4XiW5gB3nGdwOcz.jpg'
     alt: 'cover'
 tags: ["plan"]
 theme: 'light'
